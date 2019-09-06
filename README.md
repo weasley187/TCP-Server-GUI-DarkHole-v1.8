@@ -7,5 +7,4 @@ python "D.h server.py"
 3. Connect with the client:
 python "D.h client.py", and then click the connect button.
 
-
- 4.You are connected now, but can disconnect whenever you like by clicking the 'close' button.  
+4.You are connected now, but can disconnect whenever you like by clicking the 'close' button.  
