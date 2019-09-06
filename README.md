@@ -5,7 +5,6 @@ A TCP server with a GUI to connect with! I'ts the free version you can use it as
 2. Screen the server:
 python "D.h server.py"
 3. Connect with the client:
-python "D.h client.py"
-and then click the connect button
-4.You are connected now, but can disconnect whenever you like by clicking the 'close' button!
+python "D.h client.py", and then click the connect button
+You are connected now, but can disconnect whenever you like by clicking the 'close' button!
   
